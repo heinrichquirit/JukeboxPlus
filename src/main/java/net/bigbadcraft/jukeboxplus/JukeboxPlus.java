@@ -21,8 +21,8 @@ public class JukeboxPlus extends JavaPlugin {
 	 */
 	//public static Economy economy = null;
 	
-	public boolean enableEconomy;
-	public int costPerDisc;
+	//public boolean enableEconomy;
+	//public int costPerDisc;
 
 	@Override
 	public void onEnable() {
