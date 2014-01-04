@@ -1,0 +1,4 @@
+# Whether or not you want to charge your users
+enableEconomy: true
+# The set amount you want to charge for when users play discs, or use the 'next' and 'previous' buttons
+costPerDisc: 100
